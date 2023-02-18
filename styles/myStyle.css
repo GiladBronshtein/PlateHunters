@@ -58,7 +58,7 @@ iframe {
 }
 
 .bg-img {
-    background-image: url("/images/gameBg.png");
+    background-image: url("../images/gameBg.png");
     width: 77%;
     height: 100%;
     background-position: center;
